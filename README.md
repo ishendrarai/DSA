@@ -15,8 +15,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0812-rotate-string) |
+| [2032-largest-odd-number-in-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0812-rotate-string) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
