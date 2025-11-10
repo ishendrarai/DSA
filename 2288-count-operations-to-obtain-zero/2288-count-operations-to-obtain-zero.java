@@ -1,12 +1,10 @@
 class Solution {
-        int opr=0;
     public int countOperations(int num1, int num2) {
-        helper(num1,num2);
-        return opr;
+        return helper(num1,num2,0);
     }
-    public void helper(int n1,int n2){
+    public int helper(int n1,int n2,int opr){
         if(n1==0||n2==0){
-            return;
+            return opr;
         }
         if(n1>=n2){
             n1=n1-n2;
@@ -14,6 +12,6 @@ class Solution {
             n2=n2-n1;
         }
         opr++;
-        helper(n1,n2);
+        return helper(n1,n2,opr);
     }
 }
