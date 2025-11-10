@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0812-rotate-string) |
+| [1904-second-largest-digit-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1904-second-largest-digit-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
