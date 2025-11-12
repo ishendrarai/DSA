@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0039-combination-sum) |
 | [0485-max-consecutive-ones](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0485-max-consecutive-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
