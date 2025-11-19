@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0485-max-consecutive-ones) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Two Pointers
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
 | ------- |
