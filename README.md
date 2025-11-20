@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0485-max-consecutive-ones) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0759-set-intersection-size-at-least-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [2032-largest-odd-number-in-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
+| [0759-set-intersection-size-at-least-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
