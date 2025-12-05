@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
 |  |
 | ------- |
