@@ -1,24 +1,21 @@
 class Solution {
     public int countPartitions(int[] nums) {
-        int count =0;
-        for(int i=0;i<nums.length-1;i++){
-            int left = sum(nums,0,i);
-            int right = sum(nums,i+1,nums.length-1);
-            int diff  = Math.abs(right-left);
-            if(diff%2==0){
-                count++;
-            }
-            else{
-                break;
+        int totalSum = 0;
+        for (int i=0;i<nums.length;i++) {
+            totalSum += nums[i]; 
+        }
+
+        int leftSum = 0;
+        int count = 0;
+
+        for (int i = 0; i < nums.length - 1; i++) { 
+            leftSum += nums[i]; 
+            int rightSum = totalSum - leftSum; 
+  
+            if ((leftSum % 2) == (rightSum % 2)) {
+                count++; 
             }
         }
-        return count;
-    }
-    private int sum(int[] array,int lIndex,int rIndex){
-        int sum =0;
-        for(int i=lIndex;i<=rIndex;i++){
-            sum+=array[i];
-        }
-        return sum;
+        return count; 
     }
 }
