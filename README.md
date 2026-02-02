@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
