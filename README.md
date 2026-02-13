@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3714-longest-balanced-substring-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3714-longest-balanced-substring-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
