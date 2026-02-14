@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0799-champagne-tower](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3640-trionic-array-ii) |
