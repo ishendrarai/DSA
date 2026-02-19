@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0812-rotate-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0027-remove-element) |
+| [0696-count-binary-substrings](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0696-count-binary-substrings) |
 ## Number Theory
 |  |
 | ------- |
