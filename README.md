@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0812-rotate-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0761-special-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
