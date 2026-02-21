@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
 | ------- |
