@@ -7,9 +7,9 @@ class Solution {
             String sub = s.substring(i,i+k);
             if(!st.contains(sub)){
                 st.add(sub);
-
+                pow--;
             }
-            if(pow==st.size()){
+            if(pow==0){
                 return true;
             }
         }
