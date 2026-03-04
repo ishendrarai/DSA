@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Recursion
 |  |
 | ------- |
