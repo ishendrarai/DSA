@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ishendrarai/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
