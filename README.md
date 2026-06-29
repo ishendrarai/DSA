@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0039-combination-sum) |
+| [0119-pascals-triangle-ii](https://github.com/ishendrarai/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0485-max-consecutive-ones) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/ishendrarai/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0799-champagne-tower](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
