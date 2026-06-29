@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/ishendrarai/DSA/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/ishendrarai/DSA/tree/master/0605-can-place-flowers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1382-balance-a-binary-search-tree](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
