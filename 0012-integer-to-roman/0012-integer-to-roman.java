@@ -1,10 +1,6 @@
-import java.util.*;
-
 class Solution {
     public String intToRoman(int num) {
-
         LinkedHashMap<Integer, String> map = new LinkedHashMap<>();
-
         map.put(1000, "M");
         map.put(900, "CM");
         map.put(500, "D");
@@ -27,7 +23,6 @@ class Solution {
                 num -= entry.getKey();
             }
         }
-
         return ans.toString();
     }
 }
