@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ishendrarai/DSA/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/ishendrarai/DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ishendrarai/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ishendrarai/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ishendrarai/DSA/tree/master/0069-sqrtx) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ishendrarai/DSA/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ishendrarai/DSA/tree/master/0290-word-pattern) |
