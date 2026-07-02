@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ishendrarai/DSA/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [1051-height-checker](https://github.com/ishendrarai/DSA/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0761-special-binary-string) |
+| [1051-height-checker](https://github.com/ishendrarai/DSA/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ishendrarai/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
