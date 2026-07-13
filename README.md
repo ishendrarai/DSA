@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ishendrarai/DSA/tree/master/0012-integer-to-roman) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ishendrarai/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ishendrarai/DSA/tree/master/0290-word-pattern) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ishendrarai/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0696-count-binary-substrings](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0696-count-binary-substrings) |
 ## Number Theory
 |  |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ishendrarai/DSA/tree/master/1051-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ishendrarai/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
