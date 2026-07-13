@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/ishendrarai/DSA/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1925-count-square-sum-triples) |
 | [3713-longest-balanced-substring-i](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Brainteaser
