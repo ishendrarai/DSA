@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ishendrarai/DSA/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/ishendrarai/DSA/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/ishendrarai/DSA/tree/master/0735-asteroid-collision) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ishendrarai/DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/ishendrarai/DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/ishendrarai/DSA/tree/master/0771-jewels-and-stones) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ishendrarai/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ishendrarai/DSA/tree/master/0735-asteroid-collision) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ishendrarai/DSAwithLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishendrarai/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ishendrarai/DSA/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ishendrarai/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
